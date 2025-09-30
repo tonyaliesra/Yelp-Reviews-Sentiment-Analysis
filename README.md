@@ -1,4 +1,4 @@
-# 📌 Yelp Reviews Sentiment Analysis
+#  Yelp Reviews Sentiment Analysis
 
 Customer reviews are one of the most valuable sources of feedback for businesses.  
 In this project, I worked on **Yelp user reviews** with the goal of classifying them as either **Good (positive)** or **Bad (negative)**.  
